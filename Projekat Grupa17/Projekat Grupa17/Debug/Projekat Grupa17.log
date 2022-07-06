@@ -1,0 +1,4 @@
+﻿  Nasljedivanje.cpp
+C:\Users\XY\source\repos\Projekat Grupa17\Projekat Grupa17\Nasljedivanje.cpp(71,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\XY\source\repos\Projekat Grupa17\Projekat Grupa17\Nasljedivanje.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+  Projekat Grupa17.vcxproj -> C:\Users\XY\source\repos\Projekat Grupa17\Debug\Projekat Grupa17.exe
